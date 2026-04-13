@@ -97,7 +97,7 @@ python scripts/run_benchmark.py --models grok-4 --tasks all
 python scripts/run_benchmark.py --models "openai/gpt-4o-2024-11-20" "anthropic/claude-sonnet-4.5" --tasks all
 
 # Specific categories only
-python scripts/run_benchmark.py --models grok-4 --categories basic_erotica moderate_erotica
+python scripts/run_benchmark.py --models grok-4
 
 # Custom temperatures
 python scripts/run_benchmark.py --models grok-4 --temperatures 0.3 0.7 1.0 1.3
