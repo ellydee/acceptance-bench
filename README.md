@@ -2,7 +2,7 @@
 
 **A Robust LLM Evaluation Framework with Multi-Prompt Variation Testing**
 
-> **Content Notice:** This framework evaluates LLM capabilities for creative writing tasks, including adult content generation. The current task set focuses on erotica across various difficulty levels. This is intended for research and academic purposes to understand model capabilities and policy boundaries.
+> **Content Notice:** This framework evaluates LLM capabilities for creative writing tasks. This is intended for research and academic purposes to understand model capabilities and policy boundaries.
 
 ### Why acceptance-bench?
 
@@ -12,14 +12,6 @@ acceptance-bench addresses critical gaps in LLM benchmarking by testing models a
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-
----
-
-## October 2025 Results
-
-Category: 'erotica'
-
-![Benchmark Results Chart](images/acceptance-bench-2025-10-15_erotica.png "LLM Erotica Generation Benchmark Results")
 
 ---
 
